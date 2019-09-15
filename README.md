@@ -1,3 +1,2 @@
 # Dice-Challenge
-Dice Challenge is a dynamic web-page that I created for practicing my basics of JavaScript, HTML, CSS. 
-You get to throw a dice and so does your opponent(Bot), the dice having the bigger number wins!
+Designed a dynamic game where one wins on throwing a dice with a number greater than their opponent’s.
